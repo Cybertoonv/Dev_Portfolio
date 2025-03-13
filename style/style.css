@@ -1,34 +1,34 @@
 @font-face {
     font-family: book;
-    src: url("../fonts/booker-italic-personal-use.ttf");
+    src: url("fonts/booker-italic-personal-use.ttf");
 }
 @font-face {
     font-family: porter;
-    src: url("../fonts/porter-sans-inline-block.ttf");
+    src: url("fonts/porter-sans-inline-block.ttf");
 }
 @font-face {
     font-family: prog;
-    src: url("../fonts/ProgressPersonalUse-EaJdz.ttf");
+    src: url("fonts/ProgressPersonalUse-EaJdz.ttf");
 }
 @font-face {
     font-family: leegione;
-    src: url("../fonts/Leegione-1GL6j.ttf");
+    src: url("fonts/Leegione-1GL6j.ttf");
 }
 @font-face {
     font-family: orbitron;
-    src: url("../fonts/Orbitron-Regular.ttf");
+    src: url("fonts/Orbitron-Regular.ttf");
 }
 @font-face {
     font-family: baloo bhai;
-    src: url("../fonts/BalooBhai-Regular.ttf");
+    src: url("fonts/BalooBhai-Regular.ttf");
 }
 @font-face {
     font-family: bruno ace;
-    src: url("../fonts/BrunoAce-Regular.ttf");
+    src: url("fonts/BrunoAce-Regular.ttf");
 }
 @font-face {
     font-family: prompt;
-    src: url("../fonts/Prompt-Regular.woff");
+    src: url("fonts/Prompt-Regular.woff");
 }
 @media
 (prefers-reduced-motion: no-preference) {
@@ -147,7 +147,7 @@ nav {
     height: 45px;
     margin: 8px 0;
     border: 3px solid transparent;
-    border-image: url("../images/black-and-green-abstract-liquid-cyu7i06wgucxoq5g.webp") 30 stretch;
+    border-image: url("images/black-and-green-abstract-liquid-cyu7i06wgucxoq5g.webp") 30 stretch;
     width: 18%;
 }
 
@@ -185,7 +185,7 @@ section.first {
     /* font-weight: 400; */
     /* line-height: normal; */
     letter-spacing: 2.722px;
-    background: url("../images/plain-green-background-blyxei05k6f9gblj.webp"), lightgray 50% / cover no-repeat;
+    background: url("images/plain-green-background-blyxei05k6f9gblj.webp"), lightgray 50% / cover no-repeat;
     background-clip: text;
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
@@ -208,7 +208,7 @@ line-height: normal;
     width: 500px;
     height: 500px;
     border-radius: 300px;
-    background: url("../images/black-and-green-abstract-liquid-cyu7i06wgucxoq5g.webp"), lightgray 50% / cover no-repeat;;
+    background: url("images/black-and-green-abstract-liquid-cyu7i06wgucxoq5g.webp"), lightgray 50% / cover no-repeat;;
 }
 
 .s-about {
@@ -240,7 +240,7 @@ line-height: normal;
 .para {
     font-size: 25px;
     font-family: Orbitron;
-    background: url("../images/plain-green-background-blyxei05k6f9gblj.webp"), lightgray 50% / cover no-repeat;
+    background: url("images/plain-green-background-blyxei05k6f9gblj.webp"), lightgray 50% / cover no-repeat;
     background-clip: text;
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
@@ -309,7 +309,7 @@ line-height: normal;
     display: flex;
     margin: 10px 0;
     border: 4px solid transparent;
-    border-image: url("../images/black-and-green-abstract-liquid-cyu7i06wgucxoq5g.webp") 30 stretch;
+    border-image: url("images/black-and-green-abstract-liquid-cyu7i06wgucxoq5g.webp") 30 stretch;
     /* width: 30%; */
     /* height: 50px; */
 }
@@ -325,7 +325,7 @@ font-style: normal;
 font-weight: 400;
 line-height: normal;
 letter-spacing: 0.92px;
-background: url("../images/plain-green-background-blyxei05k6f9gblj.webp"), lightgray 50% / cover no-repeat;
+background: url("images/plain-green-background-blyxei05k6f9gblj.webp"), lightgray 50% / cover no-repeat;
 background-clip: text;
 -webkit-background-clip: text;
 -webkit-text-fill-color: transparent;
@@ -519,7 +519,7 @@ text-transform: uppercase;
         height: 25px;
         margin: 8px 0;
         border: 3px solid transparent;
-        border-image: url("../images/black-and-green-abstract-liquid-cyu7i06wgucxoq5g.webp") 30 stretch;
+        border-image: url("images/black-and-green-abstract-liquid-cyu7i06wgucxoq5g.webp") 30 stretch;
         width: 100px;
     }
     ::placeholder{
