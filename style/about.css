@@ -1,10 +1,10 @@
 @font-face {
     font-family: booker;
-    src: url("../fonts/booker-italic-personal-use.ttf");
+    src: url("fonts/booker-italic-personal-use.ttf");
 }
 @font-face {
     font-family: orbitron;
-    src: url("../fonts/Orbitron-Regular.ttf");
+    src: url("fonts/Orbitron-Regular.ttf");
 }
     /* laptop */
     body{
@@ -67,7 +67,7 @@ a{
     background-color: white;
     margin: 10px 0;
     border: 4px solid transparent;
-    border-image: url("../images/black-and-green-abstract-liquid-cyu7i06wgucxoq5g.webp") 30 stretch;
+    border-image: url("images/black-and-green-abstract-liquid-cyu7i06wgucxoq5g.webp") 30 stretch;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -93,7 +93,7 @@ letter-spacing: 0.739px;
     margin: 15px 10rem;
     font-family: Orbitron;
     font-size: 25px;
-    background: url("../images/plain-green-background-blyxei05k6f9gblj.webp"), lightgray 50% / cover no-repeat;
+    background: url("images/plain-green-background-blyxei05k6f9gblj.webp"), lightgray 50% / cover no-repeat;
     background-clip: text;
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
@@ -126,7 +126,7 @@ letter-spacing: 0.739px;
     height: 25px;
     margin: 8px 0;
     border: 3px solid transparent;
-    border-image: url("../images/black-and-green-abstract-liquid-cyu7i06wgucxoq5g.webp") 30 stretch;
+    border-image: url("images/black-and-green-abstract-liquid-cyu7i06wgucxoq5g.webp") 30 stretch;
     width: 100px;
 }
 ::placeholder{
